@@ -1,6 +1,6 @@
 # Contador de palabras y caracteres.
 
-El usuario pone un texto y se empiezan a contar las palabras y caracteres que ha escrito.
+El usuario introduce un texto y se empiezan a contar las palabras y caracteres que ha escrito.
 
 
 ## Construido con 🛠️
