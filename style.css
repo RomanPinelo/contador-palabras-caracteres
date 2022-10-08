@@ -50,4 +50,8 @@ section p {
   textarea {
     width: 50%;
   }
+
+  section p {
+    font-size: 1.25rem;
+  }
 }
